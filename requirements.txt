@@ -1,0 +1,5 @@
+runpod
+torch
+transformers
+emoji
+nltk
